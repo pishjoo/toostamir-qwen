@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+<rect width="100%" height="100%" fill="#16283D"/>
+<g stroke="#7BE0E8" stroke-opacity="0.12"><path d="M0 40H800" stroke-width="1"/><path d="M0 0H800"/><path d="M0 0V600"/><path d="M0 40H800"/><path d="M40 0V600"/><path d="M0 80H800"/><path d="M80 0V600"/><path d="M0 120H800"/><path d="M120 0V600"/><path d="M0 160H800"/><path d="M160 0V600"/><path d="M0 200H800"/><path d="M200 0V600"/><path d="M0 240H800"/><path d="M240 0V600"/><path d="M0 280H800"/><path d="M280 0V600"/><path d="M0 320H800"/><path d="M320 0V600"/><path d="M0 360H800"/><path d="M360 0V600"/><path d="M0 400H800"/><path d="M400 0V600"/><path d="M0 440H800"/><path d="M440 0V600"/><path d="M0 480H800"/><path d="M480 0V600"/><path d="M0 520H800"/><path d="M520 0V600"/><path d="M0 560H800"/><path d="M560 0V600"/></g>
+<text x="50%" y="46%" text-anchor="middle" font-family="Tahoma,sans-serif" font-size="24" fill="#7BE0E8">تعمیر مایکروویو</text>
+<text x="50%" y="56%" text-anchor="middle" font-family="monospace" font-size="13" fill="#5b7d95">image slot — 800x600</text>
+</svg>
